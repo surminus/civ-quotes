@@ -2,6 +2,8 @@
 
 A bot to post a quote from Civilization everyday.
 
+* [BlueSky](https://bsky.app/profile/civquotes.surminus.com)
+
 ## Sources
 
 I sourced the quotes from random lists I found. Thank you to the people who put these together:
