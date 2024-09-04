@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.5.3",
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.4"
+  },
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "build": "tsc",
+    "lint": "tslint --fix src/*.ts"
+  },
+  "dependencies": {
+    "@atproto/api": "^0.13.6",
+    "cron": "^3.1.7",
+    "dotenv": "^16.4.5",
+    "process": "^0.11.10",
+    "tslint": "^6.1.3"
+  }
+}
