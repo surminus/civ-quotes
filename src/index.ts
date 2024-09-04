@@ -1,4 +1,3 @@
-import { CronJob } from "cron";
 import "process";
 import dotenv from "dotenv";
 
@@ -40,10 +39,8 @@ function format(q: Quote): string {
 ${q.author}`;
 }
 
-if (process.env.CRONTAB_EXPRESSION) {
-  const job = new CronJob(process.env.CRONTAB_EXPRESSION, main);
-
-  job.start();
+if (process.env.POSTING_ENABLED) {
+  main();
 } else {
   console.log(format(selectQuote()));
 }
