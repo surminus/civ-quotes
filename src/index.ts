@@ -3,6 +3,7 @@ import dotenv from "dotenv";
 
 import { Agent, CredentialSession } from "@atproto/api";
 import { ALL_QUOTES, Quote } from "./quotes";
+import { writeFileSync } from "fs";
 
 dotenv.config();
 
@@ -23,10 +24,22 @@ async function main() {
     password,
   });
 
+  const quote = format(selectQuote());
+
   const agent = new Agent(session);
   await agent.post({
-    text: format(selectQuote()),
+    text: quote,
   });
+
+  writeToPath(quote);
+}
+
+function writeToPath(quote: string) {
+  if (process.env.WRITE_TO_PATH) {
+    writeFileSync(process.env.WRITE_TO_PATH, quote, {
+      flag: "w",
+    });
+  }
 }
 
 function selectQuote(): Quote {
@@ -42,5 +55,7 @@ ${q.author}`;
 if (process.env.POSTING_ENABLED) {
   main();
 } else {
-  console.log(format(selectQuote()));
+  const quote = format(selectQuote());
+  console.log(quote);
+  writeToPath(quote);
 }
