@@ -723,7 +723,7 @@ const CIV_VI_QUOTES = [
   },
 
   {
-    quote: "I thought clay must feel happy in the good potter’s hand",
+    quote: "I thought clay must feel happy in the good potter's hand",
     author: "Janet Fitch",
   },
 
@@ -763,7 +763,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "I don’t believe in astrology; I’m a Sagittarius and we’re skeptical",
+      "I don't believe in astrology; I'm a Sagittarius and we're skeptical",
     author: "Arthur C. Clarke",
   },
 
@@ -797,7 +797,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "Writing means sharing. It’s part of the human condition to want to share things - thoughts, ideas, opinions",
+      "Writing means sharing. It's part of the human condition to want to share things - thoughts, ideas, opinions",
     author: "Paulo Coelho",
   },
 
@@ -825,7 +825,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "I’m also interested in creating a lasting legacy … because bronze will last for thousands of years",
+      "I'm also interested in creating a lasting legacy … because bronze will last for thousands of years",
     author: "Richard MacDonald",
   },
 
@@ -835,8 +835,8 @@ const CIV_VI_QUOTES = [
   },
 
   {
-    quote: "Don’t reinvent the wheel, just realign it",
-    author: "Anthony D’Angelo",
+    quote: "Don't reinvent the wheel, just realign it",
+    author: "Anthony D'Angelo",
   },
 
   {
@@ -897,7 +897,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers",
+      "Without mathematics, there's nothing you can do. Everything around you is mathematics. Everything around you is numbers",
     author: "Shakuntala Devi",
   },
 
@@ -919,13 +919,13 @@ const CIV_VI_QUOTES = [
   },
 
   {
-    quote: "One man’s ‘magic’ is another man’s engineering",
+    quote: "One man's ‘magic' is another man's engineering",
     author: "Robert Heinlein",
   },
 
   {
     quote:
-      "Normal people … believe that if it ain’t broke, don’t fix it. Engineers believe that if it ain’t broke, it doesn’t have enough features yet",
+      "Normal people … believe that if it ain't broke, don't fix it. Engineers believe that if it ain't broke, it doesn't have enough features yet",
     author: "Scott Adams",
   },
 
@@ -964,7 +964,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "I’d imagine the whole world as one big machine. Machines never come with any spare parts, you know. They always come with the exact amount they need",
+      "I'd imagine the whole world as one big machine. Machines never come with any spare parts, you know. They always come with the exact amount they need",
     author: "Hugo Cabret",
   },
 
@@ -1014,7 +1014,7 @@ const CIV_VI_QUOTES = [
   },
 
   {
-    quote: "People can have the Model T in any color - so long as it’s black",
+    quote: "People can have the Model T in any color - so long as it's black",
     author: "Henry Ford",
   },
 
@@ -1026,13 +1026,13 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "If you owe the bank $100 that’s your problem. If you owe the bank $100 million, that’s the bank’s problem",
+      "If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem",
     author: "J. Paul Getty",
   },
 
   {
     quote:
-      "I saw a bank that said ’24-Hour Banking,’ but I didn’t have that much time",
+      "I saw a bank that said '24-Hour Banking,' but I didn't have that much time",
     author: "Steven Wright",
   },
 
@@ -1065,7 +1065,7 @@ const CIV_VI_QUOTES = [
   },
 
   {
-    quote: "It’s not the towering sails, but the unseen wind that moves a ship",
+    quote: "It's not the towering sails, but the unseen wind that moves a ship",
     author: "English Proverb",
   },
 
@@ -1076,7 +1076,7 @@ const CIV_VI_QUOTES = [
   },
 
   {
-    quote: "Astronomy’s much more fun when you’re not an astronomer",
+    quote: "Astronomy's much more fun when you're not an astronomer",
     author: "Brian May",
   },
 
@@ -1088,7 +1088,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "Don’t judge someone until you’ve stood at his forge and worked with his hammer",
+      "Don't judge someone until you've stood at his forge and worked with his hammer",
     author: "Rick Riordan",
   },
 
@@ -1122,19 +1122,19 @@ const CIV_VI_QUOTES = [
   },
 
   {
-    quote: "If facts don’t fit the theory, change the facts",
+    quote: "If facts don't fit the theory, change the facts",
     author: "Albert Einstein",
   },
 
   {
     quote:
-      "It’s one thing to surmise what happened, but we don’t speculate on that until ballistics confirms what happened …",
+      "It's one thing to surmise what happened, but we don't speculate on that until ballistics confirms what happened …",
     author: "John Hansen",
   },
 
   {
     quote:
-      "Let’s get on our knees and pray. I don’t know to whom. Is there a patron saint of ballistics yet?",
+      "Let's get on our knees and pray. I don't know to whom. Is there a patron saint of ballistics yet?",
     author: "Adam Savage",
   },
 
@@ -1175,7 +1175,7 @@ const CIV_VI_QUOTES = [
   },
 
   {
-    quote: "Economics is a subject that does not greatly respect one’s wishes",
+    quote: "Economics is a subject that does not greatly respect one's wishes",
     author: "Nikita Khrushchev",
   },
 
@@ -1192,7 +1192,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "Never criticize a rifleman until you have walked a mile in his shoes. That way, he’ll be barefoot and you’ll be out of range",
+      "Never criticize a rifleman until you have walked a mile in his shoes. That way, he'll be barefoot and you'll be out of range",
     author: "The 2nd Target Company",
   },
 
@@ -1204,7 +1204,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "If you can walk away from a landing, it’s a good landing. If you use the airplane the next day, it’s an outstanding landing",
+      "If you can walk away from a landing, it's a good landing. If you use the airplane the next day, it's an outstanding landing",
     author: "Chuck Yeager",
   },
 
@@ -1221,19 +1221,19 @@ const CIV_VI_QUOTES = [
   },
 
   {
-    quote: "The best steel doesn’t always shine the brightest",
+    quote: "The best steel doesn't always shine the brightest",
     author: "Joe Abercrombie",
   },
 
   {
     quote:
-      "There are three things extremely hard: steel, a diamond, and to know one’s self",
+      "There are three things extremely hard: steel, a diamond, and to know one's self",
     author: "Benjamin Franklin",
   },
 
   {
     quote:
-      "If it weren’t for electricity, we’d all be watching television by candlelight",
+      "If it weren't for electricity, we'd all be watching television by candlelight",
     author: "George Gobel",
   },
 
@@ -1267,7 +1267,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "The cars haven’t advanced that much since we were kids. When you boil it down, it’s still a gas combustion engine",
+      "The cars haven't advanced that much since we were kids. When you boil it down, it's still a gas combustion engine",
     author: "Dana Brunetti",
   },
 
@@ -1279,13 +1279,13 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "Sure, jets are fast and economical, but, oh my, what fun we’ve lost and what leisure we’ve sacrificed in the race for efficiency",
+      "Sure, jets are fast and economical, but, oh my, what fun we've lost and what leisure we've sacrificed in the race for efficiency",
     author: "Ginger Rogers",
   },
 
   {
     quote:
-      "If God had really intended men to fly, He’d make it easier to get to the airport",
+      "If God had really intended men to fly, He'd make it easier to get to the airport",
     author: "George Winters",
   },
 
@@ -1297,7 +1297,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "When you launch a rocket, you’re not really flying that rocket. You’re just sort of hanging on",
+      "When you launch a rocket, you're not really flying that rocket. You're just sort of hanging on",
     author: "Michael P. Anderson",
   },
 
@@ -1356,7 +1356,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "There’s so much plastic in this culture that vinyl leopard skin is becoming an endangered synthetic",
+      "There's so much plastic in this culture that vinyl leopard skin is becoming an endangered synthetic",
     author: "Lily Tomlin",
   },
 
@@ -1401,13 +1401,13 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "When God said, ‘Let there be light,’ he surely must have meant perfectly coherent light",
+      "When God said, ‘Let there be light,' he surely must have meant perfectly coherent light",
     author: "Charles Townes",
   },
 
   {
     quote:
-      "I’m a big laser believer - really think they are the wave of the future",
+      "I'm a big laser believer - really think they are the wave of the future",
     author: "Courteney Cox",
   },
 
@@ -1437,18 +1437,18 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "Robotics has been around forever, and it’s been the next big thing forever, and it is so exciting and compelling that it’s easy to get carried away",
+      "Robotics has been around forever, and it's been the next big thing forever, and it is so exciting and compelling that it's easy to get carried away",
     author: "Colin Angle",
   },
 
   {
-    quote: "I’ll be back",
+    quote: "I'll be back",
     author: "The Terminator",
   },
 
   {
     quote:
-      "If technology is the engine of change, then nanotechnology is the fuel for humanity’s future",
+      "If technology is the engine of change, then nanotechnology is the fuel for humanity's future",
     author: "Natasha Vita-More",
   },
 
