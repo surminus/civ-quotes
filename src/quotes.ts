@@ -1065,8 +1065,7 @@ const CIV_VI_QUOTES = [
   },
 
   {
-    quote:
-      "It’s not the towering sails, but the unseen wind that moves a ship",
+    quote: "It’s not the towering sails, but the unseen wind that moves a ship",
     author: "English Proverb",
   },
 
@@ -1485,3 +1484,13 @@ const CIV_VI_QUOTES = [
 
 export const ALL_QUOTES =
   CIV_IV_QUOTES.concat(CIV_V_QUOTES).concat(CIV_VI_QUOTES);
+
+export const JSON_QUOTES = JSON.stringify(
+  {
+    civIV: CIV_IV_QUOTES,
+    civV: CIV_V_QUOTES,
+    civVI: CIV_VI_QUOTES,
+  },
+  null,
+  2,
+);

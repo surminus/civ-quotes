@@ -2,7 +2,7 @@ import "process";
 import dotenv from "dotenv";
 
 import { Agent, CredentialSession } from "@atproto/api";
-import { ALL_QUOTES, Quote } from "./quotes";
+import { ALL_QUOTES, Quote, JSON_QUOTES } from "./quotes";
 import { writeFileSync } from "fs";
 
 dotenv.config();
@@ -32,11 +32,20 @@ async function main() {
   });
 
   writeToPath(quote);
+  writeJsonToPath();
 }
 
 function writeToPath(quote: string) {
   if (process.env.WRITE_TO_PATH) {
     writeFileSync(process.env.WRITE_TO_PATH, quote, {
+      flag: "w",
+    });
+  }
+}
+
+function writeJsonToPath() {
+  if (process.env.WRITE_JSON_TO_PATH) {
+    writeFileSync(process.env.WRITE_JSON_TO_PATH, JSON_QUOTES, {
       flag: "w",
     });
   }
@@ -58,4 +67,5 @@ if (process.env.POSTING_ENABLED) {
   const quote = format(selectQuote());
   console.log(quote);
   writeToPath(quote);
+  writeJsonToPath();
 }
