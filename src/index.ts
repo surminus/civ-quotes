@@ -24,20 +24,29 @@ async function main() {
     password,
   });
 
-  const quote = format(selectQuote());
+  const quote = selectQuote();
 
   const agent = new Agent(session);
   await agent.post({
-    text: quote,
+    text: format(quote),
   });
 
   writeToPath(quote);
+  writeHtmlToPath(quote);
   writeJsonToPath();
 }
 
-function writeToPath(quote: string) {
+function writeToPath(quote: Quote) {
   if (process.env.WRITE_TO_PATH) {
-    writeFileSync(process.env.WRITE_TO_PATH, quote, {
+    writeFileSync(process.env.WRITE_TO_PATH, format(quote), {
+      flag: "w",
+    });
+  }
+}
+
+function writeHtmlToPath(quote: Quote) {
+  if (process.env.WRITE_HTML_TO_PATH) {
+    writeFileSync(process.env.WRITE_HTML_TO_PATH, formatHtml(quote), {
       flag: "w",
     });
   }
@@ -61,11 +70,19 @@ function format(q: Quote): string {
 ${q.author}`;
 }
 
+function formatHtml(q: Quote): string {
+  return `<body>
+<p>${q.quote}</p>
+<p>${q.author}</p>
+</body>`;
+}
+
 if (process.env.POSTING_ENABLED) {
   main();
 } else {
-  const quote = format(selectQuote());
+  const quote = selectQuote();
   console.log(quote);
   writeToPath(quote);
+  writeHtmlToPath(quote);
   writeJsonToPath();
 }
