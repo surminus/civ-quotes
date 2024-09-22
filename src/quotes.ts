@@ -38,7 +38,7 @@ const CIV_IV_QUOTES = [
   {
     quote:
       "Blessed shall be the fruit of thy cattle, the increase of thy kine, and the flocks of thy sheep",
-    author: "The Bible, Deut. 28:4",
+    author: "The Bible, Deuteronomy 28:4",
   },
   {
     quote: "Do not throw the arrow which will return against you",
@@ -66,11 +66,11 @@ const CIV_IV_QUOTES = [
   {
     quote:
       "The Lord bless you and keep you; the Lord make His face to shine upon you and be gracious to you; the Lord lift up His countenance upon you and give you peace",
-    author: "The Bible, Numbers",
+    author: "The Bible, Numbers 6:24-26",
   },
   {
     quote: "I am the Lord thy God. Thou shalt have no other gods before Me",
-    author: "The Bible, Exodus",
+    author: "The Bible, Exodus 20:2-3",
   },
   {
     quote:
@@ -84,7 +84,7 @@ const CIV_IV_QUOTES = [
   },
   {
     quote: "And them that take the sword shall perish by the sword",
-    author: "The Bible, Matthew",
+    author: "The Bible, Matthew 26:52",
   },
   {
     quote: "You should hammer your iron when it is glowing hot",
@@ -172,7 +172,7 @@ const CIV_IV_QUOTES = [
       "People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public",
     author: "Adam Smith",
   },
-  { quote: "I am the state", author: "Louiz XIV" },
+  { quote: "I am the state", author: "Louis XIV" },
   { quote: "I cannot live without books", author: "Thomas Jefferson" },
   {
     quote: "Banking establishments are more dangerous than standing armies",
@@ -380,11 +380,11 @@ const CIV_V_QUOTES = [
   {
     quote:
       "Their rising all at once was as the sound of a thunder heard remote",
-    author: "Milton",
+    author: "John Milton",
   },
   {
     quote: "Once the rockets are up, who cares where they come down?",
-    author: "Tom Hehrer",
+    author: "Tom Lehrer",
   },
   {
     quote:
@@ -506,7 +506,7 @@ const CIV_V_QUOTES = [
   },
   {
     quote: "The nation that destroys its soil destroys itself",
-    author: "Franklin Delano Roosevelt",
+    author: "Franklin D. Roosevelt",
   },
   {
     quote:
@@ -527,7 +527,7 @@ const CIV_V_QUOTES = [
       "The day when two army corps can annihilate each other in one second, all civilized nations, it is to be hoped, will recoil from war and discharge their troops",
     author: "Alfred Nobel",
   },
-  { quote: "My kingdom for a horse!", author: "Shakespeare (Richard III)" },
+  { quote: "My kingdom for a horse!", author: "William Shakespeare (Richard III)" },
   {
     quote:
       "Do not wait to strike 'til the iron is hot; but make it hot by striking",
@@ -536,7 +536,7 @@ const CIV_V_QUOTES = [
   {
     quote:
       "The night is far spent, the day is at hand; let us therefore cast off the works of darkness, and let us put on the armor of light",
-    author: "The Holy Bible: Romans, 13:12",
+    author: "The Bible: Romans 13:12",
   },
   {
     quote:
