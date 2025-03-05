@@ -200,7 +200,7 @@ const CIV_IV_QUOTES = [
   {
     quote:
       "No freeman shall be taken, imprisoned, or in any other way destroyed, except by the lawful judgment of his peers",
-    author: "The Magna Carta]",
+    author: "The Magna Carta",
   },
   {
     quote: "The whole is more than the sum of its parts",
@@ -294,7 +294,7 @@ const CIV_IV_QUOTES = [
   {
     quote:
       "The great masses of the people... Will more easily fall victims to a big lie than to a small one",
-    author: "Adolf Hitler(Misatributted)",
+    author: "Adolf Hitler (misattributed)",
   },
   {
     quote:
@@ -825,7 +825,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "I'm also interested in creating a lasting legacy … because bronze will last for thousands of years",
+      "I'm also interested in creating a lasting legacy... because bronze will last for thousands of years",
     author: "Richard MacDonald",
   },
 
@@ -886,7 +886,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "I cannot imagine any condition which would cause a ship to founder … Modern shipbuilding has gone beyond that",
+      "I cannot imagine any condition which would cause a ship to founder... Modern shipbuilding has gone beyond that",
     author: "Capt. E.J. Smith, RMS Titanic",
   },
 
@@ -925,7 +925,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "Normal people … believe that if it ain't broke, don't fix it. Engineers believe that if it ain't broke, it doesn't have enough features yet",
+      "Normal people... believe that if it ain't broke, don't fix it. Engineers believe that if it ain't broke, it doesn't have enough features yet",
     author: "Scott Adams",
   },
 
@@ -1082,7 +1082,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "And first Hephaestus makes a great and massive shield … And he forged on the shield two noble cities",
+      "And first Hephaestus makes a great and massive shield... And he forged on the shield two noble cities",
     author: "Homer",
   },
 
@@ -1128,7 +1128,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "It's one thing to surmise what happened, but we don't speculate on that until ballistics confirms what happened …",
+      "It's one thing to surmise what happened, but we don't speculate on that until ballistics confirms what happened...",
     author: "John Hansen",
   },
 
@@ -1170,7 +1170,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "Apart from the sanitation, the medicine, education, wine, public order, roads, the fresh water system, and public health … what have the Romans ever done for us?",
+      "Apart from the sanitation, the medicine, education, wine, public order, roads, the fresh water system, and public health... what have the Romans ever done for us?",
     author: "John Cleese",
   },
 
@@ -1216,7 +1216,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "Many of us take better care of our automobiles than we do of our own bodies … yet the auto has replaceable parts",
+      "Many of us take better care of our automobiles than we do of our own bodies... yet the auto has replaceable parts",
     author: "B.J. Palmer",
   },
 
@@ -1367,7 +1367,7 @@ const CIV_VI_QUOTES = [
   },
 
   {
-    quote: "Mr. Watson… Come here… I want to see you",
+    quote: "Mr. Watson... Come here... I want to see you",
     author: "Alexander Graham Bell",
   },
 
@@ -1413,7 +1413,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "All material things seem to have been composed of the hard and solid particles … variously associated with the first Creation by the counsel of an Intelligent Agent",
+      "All material things seem to have been composed of the hard and solid particles... variously associated with the first Creation by the counsel of an Intelligent Agent",
     author: "Isaac Newton",
   },
 
@@ -1454,7 +1454,7 @@ const CIV_VI_QUOTES = [
 
   {
     quote:
-      "Many, many rules had begun to bend at the hand of nanotechnology … This produced a lot of good, and a lot of bad",
+      "Many, many rules had begun to bend at the hand of nanotechnology... This produced a lot of good, and a lot of bad",
     author: "Matt Spire",
   },
 
